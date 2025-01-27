@@ -77,7 +77,7 @@ El sistema ha sido desarrollado utilizando las siguientes herramientas y tecnolo
 
 ---
 ### Interfas de usuario
-![Image](https://github.com/user-attachments/assets/884cd89f-23b8-48a6-9380-c0c4c5e3b9e0)
+![Image](https://github.com/user-attachments/assets/c104408a-656a-4904-99ba-e8b565bc1f05)
 >Home
 
 ![Image](https://github.com/user-attachments/assets/6a770abf-a44e-4bdd-8b1e-aca721802631)
@@ -91,6 +91,18 @@ El sistema ha sido desarrollado utilizando las siguientes herramientas y tecnolo
 
 ![Image](https://github.com/user-attachments/assets/684a31ef-b790-4331-9b1f-e407fc5fea7b)
 >Contactame
+
+### CUXIBAMBA-ADMIN
+![Image](https://github.com/user-attachments/assets/bd61384c-ccce-4301-835f-7118939dceaa)
+>Admin
+
+### Registro
+![Image](https://github.com/user-attachments/assets/351f6eab-c8fc-408c-af55-f0c3da131f55)
+>Registro de usuarios
+
+### Creacion de cuenta
+![Image](https://github.com/user-attachments/assets/571edb84-87c0-415b-99fa-f0e294acc7b7)
+>Creacion de una nueva cuenta
 ---
 
 ## Instalación y Configuración
