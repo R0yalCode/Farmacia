@@ -76,6 +76,22 @@ El sistema ha sido desarrollado utilizando las siguientes herramientas y tecnolo
 >Telefono-Horario-Turno
 
 ---
+### Interfas de usuario
+![Image](https://github.com/user-attachments/assets/884cd89f-23b8-48a6-9380-c0c4c5e3b9e0)
+>Home
+
+![Image](https://github.com/user-attachments/assets/6a770abf-a44e-4bdd-8b1e-aca721802631)
+>Cita
+
+![Image](https://github.com/user-attachments/assets/d5246fa5-46f3-4c08-a63a-93040f1aad4d)
+>Galeria
+
+![Image](https://github.com/user-attachments/assets/30538ceb-170c-4b8c-89e2-d3ecb81496f5)
+>Blog
+
+![Image](https://github.com/user-attachments/assets/684a31ef-b790-4331-9b1f-e407fc5fea7b)
+>Contactame
+---
 
 ## Instalación y Configuración
 
