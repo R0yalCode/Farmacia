@@ -1,3 +1,4 @@
+# CUXIBAMBA ROYAL
 # Sistema de Gestión para una Cadena de Farmacias
 
 ## Descripción del Problema
@@ -33,8 +34,7 @@ El sistema ha sido desarrollado utilizando las siguientes herramientas y tecnolo
 
 - *Framework:* Django (Python).
 - *Base de Datos:* SQLite (por defecto de Django) con la posibilidad de migrar a PostgreSQL.
-- *Frontend:* Interfaz de Administración de Django para la gestión.
-- *Despliegue:* Preparado para ser desplegado en servidores como Heroku o cualquier servicio compatible con WSGI.
+- *Frontend:* Interfaz de Administración de Django para la gestión y html buscado en la web.
 
 ---
 
@@ -57,7 +57,23 @@ El sistema ha sido desarrollado utilizando las siguientes herramientas y tecnolo
 - *Pedidos y Entregas:* Un pedido puede tener múltiples entregas asociadas.
 
 ### Diagramas UML
-Se ha trabajado en diagramas para describir las relaciones entre las clases y su implementación en Django. Consulte la documentación del repositorio para detalles sobre los diagramas.
+![Image](https://github.com/user-attachments/assets/14dd6280-dfa0-40b7-ba02-c2f6a7db1b52)
+>Clase principal Farmacia
+
+![Image](https://github.com/user-attachments/assets/4a48d1ae-34eb-471a-aae7-4b7bbea5347b)
+>usuario
+
+![Image](https://github.com/user-attachments/assets/7c1287cc-6c1b-418c-a843-598590759a40)
+>Ubicacion-zona
+
+![Image](https://github.com/user-attachments/assets/74d44bf9-81d6-4bdf-be94-1045d4af1a4d)
+>Pedidos
+
+![Image](https://github.com/user-attachments/assets/df12d2fd-fcc1-4b6c-be74-c97ec6b08169)
+>Venta-Iventario-Pedidos
+
+![Image](https://github.com/user-attachments/assets/3d6ed571-8c2c-4c04-bda7-fc5062ca6b32)
+>Telefono-Horario-Turno
 
 ---
 
@@ -65,7 +81,7 @@ Se ha trabajado en diagramas para describir las relaciones entre las clases y su
 
 ### Requisitos previos
 
-- Python 3.8 o superior.
+- Python 3.13 o superior.
 - pip para instalar dependencias.
 - Virtualenv (opcional, pero recomendado).
 
@@ -73,5 +89,5 @@ Se ha trabajado en diagramas para describir las relaciones entre las clases y su
 
 1. *Clonar el repositorio:*
    ```bash
-   git clone https://github.com/tu_usuario/farmacia-system.git
+   git clone https://github.com/R0yalCode/Farmacia.git
    cd farmacia-system
