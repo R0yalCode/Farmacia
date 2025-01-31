@@ -57,22 +57,22 @@ El sistema ha sido desarrollado utilizando las siguientes herramientas y tecnolo
 - *Pedidos y Entregas:* Un pedido puede tener múltiples entregas asociadas.
 
 ### Diagramas UML
-![Image](https://github.com/user-attachments/assets/14dd6280-dfa0-40b7-ba02-c2f6a7db1b52)
+![Image](https://github.com/user-attachments/assets/c8b53e90-40b6-45d9-96a6-1be0d3ab4d3a)
 >Clase principal Farmacia
 
-![Image](https://github.com/user-attachments/assets/4a48d1ae-34eb-471a-aae7-4b7bbea5347b)
+![Image](https://github.com/user-attachments/assets/b88b1417-e06c-4092-bccc-77fcaf1d6b77)
 >usuario
 
-![Image](https://github.com/user-attachments/assets/7c1287cc-6c1b-418c-a843-598590759a40)
+![Image](https://github.com/user-attachments/assets/55ecb5aa-08ce-4823-8b29-bc6deaf5f671)
 >Ubicacion-zona
 
-![Image](https://github.com/user-attachments/assets/74d44bf9-81d6-4bdf-be94-1045d4af1a4d)
+![Image](https://github.com/user-attachments/assets/4b551a90-034e-4d69-b770-3a7c55bbc2b3)
 >Pedidos
 
-![Image](https://github.com/user-attachments/assets/df12d2fd-fcc1-4b6c-be74-c97ec6b08169)
+![Image](https://github.com/user-attachments/assets/470985d7-57a1-4b93-8e3b-f2a7cbf3f492)
 >Venta-Iventario-Pedidos
 
-![Image](https://github.com/user-attachments/assets/3d6ed571-8c2c-4c04-bda7-fc5062ca6b32)
+![Image](https://github.com/user-attachments/assets/261e84e6-2ae7-4e48-8bfb-376b6bfe4f7d)
 >Telefono-Horario-Turno
 
 ---
@@ -92,17 +92,36 @@ El sistema ha sido desarrollado utilizando las siguientes herramientas y tecnolo
 ![Image](https://github.com/user-attachments/assets/684a31ef-b790-4331-9b1f-e407fc5fea7b)
 >Contactame
 
+![image](https://github.com/user-attachments/assets/78a30bb7-065f-447f-a122-9ac95d8c45ac)
+>Resitrarse
+
 ### CUXIBAMBA-ADMIN
-![Image](https://github.com/user-attachments/assets/bd61384c-ccce-4301-835f-7118939dceaa)
+![Image](https://github.com/user-attachments/assets/be1374bf-01d5-4f8e-8329-254dd01d5ad1)
 >Admin
 
 ### Registro
-![Image](https://github.com/user-attachments/assets/351f6eab-c8fc-408c-af55-f0c3da131f55)
->Registro de usuarios
+![image](https://github.com/user-attachments/assets/f6b561dc-8e01-4db3-96e4-cbbf1ece33e1)
+>Registro de clientes
 
 ### Creacion de cuenta
 ![Image](https://github.com/user-attachments/assets/571edb84-87c0-415b-99fa-f0e294acc7b7)
 >Creacion de una nueva cuenta
+
+### ADMIN-DJANGO
+![image](https://github.com/user-attachments/assets/2a174576-570f-4bd1-8e38-4f1ac3704703)
+>admin
+
+![image](https://github.com/user-attachments/assets/b045cc6d-dda6-4a35-adaa-3d8286adb1a4)
+>Pedidos
+
+![image](https://github.com/user-attachments/assets/d9782cee-af6b-467e-8256-5adf574ab661)
+>Productos
+
+![image](https://github.com/user-attachments/assets/c0d9d04d-5c66-4e92-9a37-3dd30ce4fec8)
+>Transaccion
+
+![image](https://github.com/user-attachments/assets/18037589-e147-47ab-9fd4-597ed4e84f59)
+>venta
 ---
 
 ## Instalación y Configuración
